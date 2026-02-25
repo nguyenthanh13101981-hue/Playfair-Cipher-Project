@@ -13,7 +13,6 @@ Dự án này cài đặt thuật toán mã hóa cổ điển Playfair Cipher b�
 
 ## 📁 Cấu trúc thư mục
 - `playfair.py`: Cài đặt thuật toán bằng Python.
-- `playfair.cpp` (hoặc `Untitled1.c`): Cài đặt thuật toán bằng C++.
 
 ## 🚀 Ví dụ kiểm thử (Test Case)
 Chương trình đã được thiết lập sẵn ví dụ kiểm thử với các thông số sau:
