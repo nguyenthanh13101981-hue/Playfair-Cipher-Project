@@ -1,6 +1,6 @@
 # Thuật toán Playfair Cipher (Python)
 
-Dự án này cài đặt thuật toán mã hóa cổ điển Playfair Cipher bằng hai ngôn ngữ lập trình là Python và C++. Đây là bài tập thực hành mật mã học với các quy tắc chuẩn của Playfair.
+Dự án này cài đặt thuật toán mã hóa cổ điển Playfair Cipher bằng hai ngôn ngữ lập trình là Python. Đây là bài tập thực hành mật mã học với các quy tắc chuẩn của Playfair.
 
 ## 📌 Các quy tắc áp dụng
 - Sử dụng ma trận khóa kích thước **5x5**.
